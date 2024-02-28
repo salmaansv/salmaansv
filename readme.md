@@ -1,6 +1,5 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Salman! 
-  <img src="https://github.com/salmanvp/" width="30px">
   </h2>
 </div>
 
