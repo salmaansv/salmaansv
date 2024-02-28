@@ -31,16 +31,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-<!-- ![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=Mongodb)&nbsp; -->
 
 
 
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br/>
-<div align="center">
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <div align="center">
   
-<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanvp&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanvp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-</div>
-<br/>
+ <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanvp&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  </div>
+  <br/>
