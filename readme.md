@@ -10,6 +10,7 @@
 
 ### I am a Full Stack Developer
 - 🌱 I’m currently learning Python Full Stack.
+<!-- - 📬 How to reach me: Let's get in touch ![linkedin](https://www.linkedin.com/in/shameem-m-767213126/) -->
 
 
 
@@ -23,6 +24,7 @@
 ![Python](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<!-- ![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=Mongodb)&nbsp; -->
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;\
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -36,7 +38,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <div align="center">
-  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanvp&show_icons=true&count_private=true&theme=algolia" height="192px" margin-left="-4rem";/>
+  
+ <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanvp&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanvp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   </div>
   <br/>
