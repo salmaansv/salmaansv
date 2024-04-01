@@ -1,19 +1,11 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Salman! 
+<h2> Hi 👋 My name is Salman
   </h2>
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Salman+VP!;I'm+a+Python+Full+Stack+Developer...;)](https://git.io/typing-svg)
-
-
-
-### I am a Full Stack Developer
-- 🌱 I’m currently learning Python Full Stack.
-<!-- - 📬 How to reach me: Let's get in touch ![linkedin](https://www.linkedin.com/in/shameem-m-767213126/) -->
-
-
-
+Full Stack Developer
+---------------------
 
 
 ### 🛠 &nbsp;Tech Stack
