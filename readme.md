@@ -1,5 +1,10 @@
+<div align="center">
+<h2> Hi 👋 My name is Salman
+  </h2>
+</div>
 
-* Full Stack Developer
+
+* Web Developer
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -20,10 +25,3 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <div align="center">
-  
- <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanvp&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  </div>
-  <br/>
