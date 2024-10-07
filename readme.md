@@ -1,10 +1,8 @@
 <div align="center">
-<h2> Hi 👋 My name is Salman
-  </h2>
 </div>
 
 
-* Web Developer
+*Full Stack Developer
 
 
 ### 🛠 &nbsp;Tech Stack
